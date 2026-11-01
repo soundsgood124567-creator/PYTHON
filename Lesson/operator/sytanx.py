@@ -1,0 +1,7 @@
+num_1 = int(input("Enter the first number : "))
+num_2 = int( input("Enter the second number : "))
+print("result : ")
+print(f"addition : {num_1  + num_2}")
+print(f"substraction : {num_1  - num_2}")
+print(f"mulitplcation : {num_1  * num_2}")
+print(f"Division : {num_1  / num_2}")
