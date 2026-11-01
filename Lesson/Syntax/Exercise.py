@@ -1,0 +1,6 @@
+print("======Student information======")
+print("Student Id : 123123")
+print("Student name : ziyu")
+print("Student gender : male")
+print("Student level : 8")
+print("Student grade : A")
